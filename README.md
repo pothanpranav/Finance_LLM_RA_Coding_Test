@@ -52,8 +52,16 @@ https://huggingface.co/Qwen
 # Repository Structure
 
 | File | Description |
+
+# Repository Structure
+
+
+| File | Description |
 |---|---|
 | `finance_llm_assignment.ipynb` | Main notebook containing all experiments and analysis |
+| `Finance_LLM_Report.pdf` | Detailed report containing methodology, experiments, and findings |
+| `Finance_LLM_PPT.pdf` | Presentation slides summarizing the project |
+| `AI Prompt.docx` | ChatGPT prompts and AI interaction transcripts used during development |
 | `full_context.json` | Full-context dataset |
 | `table_only_context.json` | Table-only dataset |
 | `text_only_context.json` | Text-only dataset |
@@ -62,6 +70,8 @@ https://huggingface.co/Qwen
 | `text_only_outputs.json` | Outputs using text-only context |
 | `no_evidence_grounded_outputs.json` | Outputs without evidence-grounded retrieval |
 | `evidence_grounded_outputs.json` | Outputs using evidence-grounded retrieval |
+
+---
 
 ---
 
