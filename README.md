@@ -130,6 +130,12 @@ Retrieval failures were found to be the dominant failure mode.
 
 ---
 
+## AI Usage Disclosure
+
+The following ChatGPT transcript(s) were used during the development of this assignment:
+
+- https://chatgpt.com/share/6a0308a9-02b0-8324-866a-b54a56c6ae2f
+---
 # References
 
 1. FinQA Dataset  
