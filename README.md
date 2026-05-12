@@ -59,6 +59,7 @@ https://huggingface.co/Qwen
 | File | Description |
 |---|---|
 | `finance_llm_assignment.ipynb` | Main notebook containing all experiments and analysis |
+| `test.json` | Test dataset from FinQA |
 | `Finance_LLM_Report.pdf` | Detailed report containing methodology, experiments, and findings |
 | `Finance_LLM_PPT.pdf` | Presentation slides summarizing the project |
 | `AI Prompt.docx` | ChatGPT prompts and AI interaction transcripts used during development |
