@@ -146,6 +146,10 @@ Retrieval failures were found to be the dominant failure mode.
 The following ChatGPT transcript(s) were used during the development of this assignment:
 
 - https://chatgpt.com/share/6a0308a9-02b0-8324-866a-b54a56c6ae2f
+- https://chatgpt.com/share/6a0336d4-0cf8-8324-9a40-57456fc8cba2
+- https://chatgpt.com/share/6a03375d-5e88-8324-b476-c217dcd8a872
+- https://chatgpt.com/share/6a0337ec-3cc4-8324-b373-8aad11f5e257
+
 ---
 # References
 
